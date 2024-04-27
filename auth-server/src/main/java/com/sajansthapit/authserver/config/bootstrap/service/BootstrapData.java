@@ -1,0 +1,1 @@
+package com.sajansthapit.authserver.config.bootstrap.service;public interface BootstrapData<E>{    void bootstrap(E e);}

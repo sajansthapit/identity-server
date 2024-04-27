@@ -1,0 +1,1 @@
+package com.sajansthapit.authserver.authclient.service;import com.sajansthapit.authserver.authclient.models.Scope;public interface IScopeService {    /**     * Method to get Scope object by scopeName     *     * @param scopeName String     * @return Scope or else throw EntityNotFoundException     */    Scope getByScopeName(String scopeName);}

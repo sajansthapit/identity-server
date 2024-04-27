@@ -1,0 +1,1 @@
+package com.sajansthapit.authserver.authclient.service;public interface IAuthClientService {}

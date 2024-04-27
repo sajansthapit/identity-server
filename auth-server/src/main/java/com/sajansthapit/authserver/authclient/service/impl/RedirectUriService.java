@@ -1,0 +1,1 @@
+package com.sajansthapit.authserver.authclient.service.impl;import com.sajansthapit.authserver.authclient.service.IRedirectUriService;import org.springframework.stereotype.Service;@Servicepublic class RedirectUriService implements IRedirectUriService {}
